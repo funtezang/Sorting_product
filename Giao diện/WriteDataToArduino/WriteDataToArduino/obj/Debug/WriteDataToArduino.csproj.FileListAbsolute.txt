@@ -1,0 +1,11 @@
+C:\Users\zxctv\OneDrive\Desktop\Học tập 2022-2\Kỹ thuật lập trình trong CĐT\BT ck\Code\Visual studio\WriteDataToArduino\WriteDataToArduino\bin\Debug\WriteDataToArduino.exe.config
+C:\Users\zxctv\OneDrive\Desktop\Học tập 2022-2\Kỹ thuật lập trình trong CĐT\BT ck\Code\Visual studio\WriteDataToArduino\WriteDataToArduino\bin\Debug\WriteDataToArduino.exe
+C:\Users\zxctv\OneDrive\Desktop\Học tập 2022-2\Kỹ thuật lập trình trong CĐT\BT ck\Code\Visual studio\WriteDataToArduino\WriteDataToArduino\bin\Debug\WriteDataToArduino.pdb
+C:\Users\zxctv\OneDrive\Desktop\Học tập 2022-2\Kỹ thuật lập trình trong CĐT\BT ck\Code\Visual studio\WriteDataToArduino\WriteDataToArduino\obj\Debug\WriteDataToArduino.csproj.AssemblyReference.cache
+C:\Users\zxctv\OneDrive\Desktop\Học tập 2022-2\Kỹ thuật lập trình trong CĐT\BT ck\Code\Visual studio\WriteDataToArduino\WriteDataToArduino\obj\Debug\WriteDataToArduino.csproj.SuggestedBindingRedirects.cache
+C:\Users\zxctv\OneDrive\Desktop\Học tập 2022-2\Kỹ thuật lập trình trong CĐT\BT ck\Code\Visual studio\WriteDataToArduino\WriteDataToArduino\obj\Debug\WriteDataToArduino.Properties.Resources.resources
+C:\Users\zxctv\OneDrive\Desktop\Học tập 2022-2\Kỹ thuật lập trình trong CĐT\BT ck\Code\Visual studio\WriteDataToArduino\WriteDataToArduino\obj\Debug\WriteDataToArduino.csproj.GenerateResource.cache
+C:\Users\zxctv\OneDrive\Desktop\Học tập 2022-2\Kỹ thuật lập trình trong CĐT\BT ck\Code\Visual studio\WriteDataToArduino\WriteDataToArduino\obj\Debug\WriteDataToArduino.csproj.CoreCompileInputs.cache
+C:\Users\zxctv\OneDrive\Desktop\Học tập 2022-2\Kỹ thuật lập trình trong CĐT\BT ck\Code\Visual studio\WriteDataToArduino\WriteDataToArduino\obj\Debug\WriteDataToArduino.exe
+C:\Users\zxctv\OneDrive\Desktop\Học tập 2022-2\Kỹ thuật lập trình trong CĐT\BT ck\Code\Visual studio\WriteDataToArduino\WriteDataToArduino\obj\Debug\WriteDataToArduino.pdb
+C:\Users\zxctv\OneDrive\Desktop\Học tập 2022-2\Kỹ thuật lập trình trong CĐT\BT ck\Code\Visual studio\WriteDataToArduino\WriteDataToArduino\obj\Debug\WriteDataToArduino.Main.resources
